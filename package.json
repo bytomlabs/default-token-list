@@ -1,6 +1,6 @@
 {
   "name": "@supertx/default-token-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "◦ The BMC supertx default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
