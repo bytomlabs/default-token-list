@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Bytom-Peg Ethereum Token",
+    "address": "0x27B4bd40d7AaBB98b4A2682A9CfaBD6d7292276a",
+    "symbol": "ETH",
+    "decimals": 18,
+    "chainId": 189,
+    "logoURI": "https://cdn.blockmeta.com/resources/logo/bmc/0x27b4bd40d7aabb98b4a2682a9cfabd6d7292276a.png"
+  },
+  {
+    "name": "Bytom-Peg Bitcoin Token",
+    "address": "0xAfac8405A87665B94528130049d3bD1FCB2B7FCc",
+    "symbol": "BTC",
+    "decimals": 18,
+    "chainId": 189,
+    "logoURI": "https://cdn.blockmeta.com/resources/logo/bmc/0xafac8405a87665b94528130049d3bd1fcb2b7fcc.png"
+  },
+  {
+    "name": "Bytom-Peg SUP",
+    "address": "0x6AFfE5BFD41f7d8112E3AC74Fc3b887e272521dB",
+    "symbol": "SUP",
+    "decimals": 18,
+    "chainId": 189,
+    "logoURI": "https://cdn.blockmeta.com/resources/logo/bmc/0x6affe5bfd41f7d8112e3ac74fc3b887e272521db.png"
+  },
+  {
+    "name": "Bytom-Peg Litecoin Token",
+    "address": "0x76dD43F234A8dfd2F54ddbb2567D11E04769CAA8",
+    "symbol": "LTC",
+    "decimals": 18,
+    "chainId": 189,
+    "logoURI": "https://cdn.blockmeta.com/resources/logo/bmc/0x76dd43f234a8dfd2f54ddbb2567d11e04769caa8.png"
+  },
+  {
+    "name": "Bytom-Peg Tether USD",
+    "address": "0x8B0a0cc8f426549921317C52ef7aBdA24f0fA1cC",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 189,
+    "logoURI": "https://cdn.blockmeta.com/resources/logo/bmc/0x8b0a0cc8f426549921317c52ef7abda24f0fa1cc.png"
+  },
+  {
+    "name": "Bytom-Peg USD Coin",
+    "address": "0x975a0b0B93410fa992Edab520BCEF58C9AA814cD",
+    "symbol": "USDC",
+    "decimals": 18,
+    "chainId": 189,
+    "logoURI": "https://cdn.blockmeta.com/resources/logo/bmc/0x975a0b0b93410fa992edab520bcef58c9aa814cd.png"
+  },
+  {
+    "name": "Bytom-Peg Dai Stablecoin",
+    "address": "0x1d761AcB916fa63d3A1859513D62142C3d7aE800",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 189,
+    "logoURI": "https://cdn.blockmeta.com/resources/logo/bmc/0x1d761acb916fa63d3a1859513d62142c3d7ae800.png"
+  },
+  {
+    "name": "Wrapped BTM",
+    "address": "0x0b45Ad27866C8E05ED610cd8A0ec78de94B18202",
+    "symbol": "WBTM",
+    "decimals": 18,
+    "chainId": 189,
+    "logoURI": "https://cdn.blockmeta.com/resources/logo/bmc/0x0b45ad27866c8e05ed610cd8a0ec78de94b18202.png"
+  }
+]
