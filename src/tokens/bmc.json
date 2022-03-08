@@ -1,7 +1,7 @@
 [
   {
     "name": "Bytom-Peg SUP",
-    "address": "0x77197f46435d4cf8fb07953ad5ebc98ee6c8e7f1",
+    "address": "0x77197f46435D4cf8fB07953ad5ebC98EE6C8E7F1",
     "symbol": "SUP",
     "decimals": 18,
     "chainId": 188,
@@ -9,7 +9,7 @@
   },
   {
     "name": "Bytom-Peg Ethereum Token",
-    "address": "0xcdffc7ac70d99f6efa382fdf47cd42a022d21483",
+    "address": "0xCDffc7Ac70D99F6eFa382fdf47CD42a022d21483",
     "symbol": "ETH",
     "decimals": 18,
     "chainId": 188,
@@ -17,7 +17,7 @@
   },
   {
     "name": "Bytom-Peg Tether USD",
-    "address": "0x8b767c4a39599676cd897ab475d1cbafe1ae1a8d",
+    "address": "0x8B767C4A39599676CD897aB475d1CbAFE1ae1a8d",
     "symbol": "USDT",
     "decimals": 18,
     "chainId": 188,
@@ -25,7 +25,7 @@
   },
   {
     "name": "Bytom-Peg USD Coin",
-    "address": "0x7b61fdce48711971aa3e685cbdacdca0b7e499d4",
+    "address": "0x7B61fdce48711971AA3E685cbdaCdCA0b7E499d4",
     "symbol": "USDC",
     "decimals": 18,
     "chainId": 188,
@@ -33,7 +33,7 @@
   },
   {
     "name": "Bytom-Peg Dai Stablecoin",
-    "address": "0x9403ef0ebc3f295fdf8fdbe9dce68d6121bdd946",
+    "address": "0x9403Ef0Ebc3f295FDf8FDbE9dCe68d6121BDd946",
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 188,
@@ -41,7 +41,7 @@
   },
   {
     "name": "Bytom-Peg Chainlink Token",
-    "address": "0xdaec2e79d8627ee49e90dee99232cf58e7bb4fce",
+    "address": "0xDaEc2E79D8627EE49e90dEe99232CF58E7bb4fCE",
     "symbol": "LINK",
     "decimals": 18,
     "chainId": 188,
@@ -49,7 +49,7 @@
   },
   {
     "name": "Bytom-Peg Huobi Token",
-    "address": "0x20c24084503cee8eb024e2aa1c3e4644d8750ea3",
+    "address": "0x20C24084503cEE8eb024E2Aa1c3E4644d8750ea3",
     "symbol": "HT",
     "decimals": 18,
     "chainId": 188,
@@ -57,7 +57,7 @@
   },
   {
     "name": "Bytom-Peg OKB Token",
-    "address": "0x2a6561a109e46001a2b0091629c60e39e9cf18e6",
+    "address": "0x2A6561A109E46001a2B0091629C60E39E9Cf18E6",
     "symbol": "OKB",
     "decimals": 18,
     "chainId": 188,
@@ -65,7 +65,7 @@
   },
   {
     "name": "Bytom-Peg Gatechain Token",
-    "address": "0x72a75dcab84e57d443b955e88536ed0b4ce9c9c5",
+    "address": "0x72A75dcAb84e57d443b955E88536ed0B4Ce9C9c5",
     "symbol": "GT",
     "decimals": 18,
     "chainId": 188,
@@ -73,7 +73,7 @@
   },
   {
     "name": "Bytom-Peg ZKSwap Token",
-    "address": "0x5b69a223f53dec87281e48343213822acc994990",
+    "address": "0x5B69a223F53DeC87281e48343213822Acc994990",
     "symbol": "ZKS",
     "decimals": 18,
     "chainId": 188,
@@ -81,7 +81,7 @@
   },
   {
     "name": "Bytom-Peg mBTM Token",
-    "address": "0x1731a17d54352116ac9ce7efd3caa7a29258adb4",
+    "address": "0x1731a17D54352116ac9CE7eFd3caa7a29258Adb4",
     "symbol": "mBTM",
     "decimals": 18,
     "chainId": 188,
@@ -89,7 +89,7 @@
   },
   {
     "name": "Bytom-Peg SHIBA INU Token",
-    "address": "0x556e4058a70ca8f6ddcdb91fa106792278f2cc9e",
+    "address": "0x556E4058A70ca8f6DDcDB91fa106792278F2cC9E",
     "symbol": "SHIB",
     "decimals": 18,
     "chainId": 188,
@@ -97,7 +97,7 @@
   },
   {
     "name": "Bytom-Peg HOKK Token",
-    "address": "0xcc112aa736a8ff85eca6157697924f31b599f6ee",
+    "address": "0xcc112aA736A8ff85ecA6157697924f31b599f6EE",
     "symbol": "HOKK",
     "decimals": 18,
     "chainId": 188,
@@ -105,7 +105,7 @@
   },
   {
     "name": "Bytom-Peg KISHU Token",
-    "address": "0xc3488d3effc878e1bcd32d63983a0bb8e68fd109",
+    "address": "0xC3488d3eFfc878e1bcd32d63983a0bb8E68FD109",
     "symbol": "KISHU",
     "decimals": 18,
     "chainId": 188,
@@ -113,7 +113,7 @@
   },
   {
     "name": "Wrapped BTM",
-    "address": "0xcd109943f45587d589cae7b66f3fcf4a3097a288",
+    "address": "0xcd109943f45587D589cAE7b66F3FcF4a3097A288",
     "symbol": "WBTM",
     "decimals": 18,
     "chainId": 188,
