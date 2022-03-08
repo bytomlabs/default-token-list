@@ -6,7 +6,7 @@ const bmc_testnet = require("./tokens/bmc_testnet.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Uniswap Labs List",
+    name: "SuperTx default token list",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
