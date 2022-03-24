@@ -118,5 +118,13 @@
     "decimals": 18,
     "chainId": 188,
     "logoURI": "https://cdn.blockmeta.com/resources/logo/bmc/0xcd109943f45587d589cae7b66f3fcf4a3097a288.png"
+  },
+  {
+    "name": "Bytom-Peg Bytom Classic Token",
+    "address": "0xf6e5C148e160DDE9A0f447178E7a08D0A6d5EE1D",
+    "symbol": "BTMC",
+    "decimals": 18,
+    "chainId": 188,
+    "logoURI": "https://cdn.blockmeta.com/resources/logo/bmc/0xf6e5c148e160dde9a0f447178e7a08d0a6d5ee1d.png"
   }
 ]
