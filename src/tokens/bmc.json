@@ -129,10 +129,10 @@
   },
   {
     "name": "Bytom-Peg Bitcoin Token",
-    "address": "0xAfac8405A87665B94528130049d3bD1FCB2B7FCc",
+    "address": "0xEC485cDA66D9a55aee73abB61de98fF1ec594243",
     "symbol": "BTC",
     "decimals": 18,
     "chainId": 188,
-    "logoURI": "https://cdn.blockmeta.com/resources/logo/bmc/0xafac8405a87665b94528130049d3bd1fcb2b7fcc.png"
+    "logoURI": "https://cdn.blockmeta.com/resources/logo/bmc/0xec485cda66d9a55aee73abb61de98ff1ec594243.png"
   }
 ]
